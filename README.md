@@ -1,6 +1,6 @@
 # BOSWatch
 
-![BOSWatch](logo/bw3.png "BOSWatch 3 Logo")
+![BOSWatch](logo/bw3_BOSKRYPT.png "BOSWatch 3 Logo")
 
 ![pytest](https://github.com/BOSWatch/BW3-Core/workflows/pytest/badge.svg)
 ![documentation](https://github.com/BOSWatch/BW3-Core/workflows/build_docs/badge.svg)

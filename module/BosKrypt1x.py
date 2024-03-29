@@ -22,7 +22,7 @@ from module.moduleBase import ModuleBase
 # ###################### #
 # Custom plugin includes #
 
-from lib.BoskryptLibary import Decrypt
+from module.lib.BoskryptLibary import Decrypt
 
 # ###################### #
 
@@ -54,7 +54,7 @@ class BoswatchModule(ModuleBase):
             pass
         elif bwPacket.get("mode") == "pocsag":
             
-            load_conf_dkey = self.config.get("descriprion_key") # wird nur für entwicklungszwecke verwendet
+            load_conf_dkey = self.config.get("des_key") # wird nur für entwicklungszwecke verwendet
             load_conf_bkkey = self.config.get("bk_key") # Der BKKey
             
             logging.debug(f'Lade {load_conf_dkey} | {load_conf_bkkey} in den Decrypter')

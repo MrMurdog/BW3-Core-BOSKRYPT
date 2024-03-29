@@ -28,3 +28,9 @@ router:
   - type: plugin
     name: test plugin
     res: template_plugin
+  - type: module              
+    res: BosKrypt1x      
+    name: Sample_config          # optionaler Name
+    config:                   
+      - bk_key: 'DEIN HEX KEY HIER' # Derzeit nur ein Key möglich
+      - des_key: 'Beschreibung des KEY´s für die LOG' # Für Debug zwecke gedacht

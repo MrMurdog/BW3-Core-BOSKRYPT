@@ -1,5 +1,9 @@
-# <center>BosKrypt1x</center> 
+# <center><img height="144 px" src="http://boskrypt.de/index-Dateien/image003.gif"></center> 
 ---
+
+## INFO
+
+ Dieses Modul  steht in **KEINER** verbindung mit dem Entwlicker von BosWatch und wurde selbsständig durch Dritte entwickelt und eingebunden.
 
 ## Beschreibung
 Mit diesem Modul ist es möglich mit Boskrypt verschlüsselte Narichten zu entschlüsseln.

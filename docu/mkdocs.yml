@@ -23,6 +23,7 @@ nav:
       - Mode Filter: modul/mode_filter.md
       - Regex Filter: modul/regex_filter.md
       - Double Filter: modul/double_filter.md
+      - BosKrypt1x: modul/BosKrypt1x.md
   - Plugins:
       - Http: plugin/http.md
       - Telegram: plugin/telegram.md

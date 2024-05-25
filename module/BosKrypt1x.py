@@ -10,10 +10,10 @@ r"""!
                      by Bastian Schroll
 
 @file:        template_module.py
-@date:        29.03.2024
+@date:        25.05.2024
 @author:      MrMurdog
 @description: BoskryptLibrary Handler
-@version:     0.0.1
+@version:     1.0.0
 @dev_state    in proc...
 """
 import logging

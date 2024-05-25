@@ -11,7 +11,7 @@ def Decrypt(keys, message):
     for key in keys:
         try:
             # Setze den Befehl zusammen
-            command = ["./BoskryptCLI", key, message]
+            command = ["./CLI/BoskryptCLI", key, message]
             
             # Führe den Befehl aus und fange die Ausgabe ab
             result = subprocess.run(command, capture_output=True, text=True)
